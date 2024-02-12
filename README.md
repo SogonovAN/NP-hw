@@ -8,7 +8,7 @@
 
 ![Название скриншота 1](https://github.com/SogonovAN/NP-hw/blob/main/0.1.1.1.JPG)`
 
-![Название скриншота 1](https://github.com/SogonovAN/NP-hw/blob/main/0.1.1.1.1JPG)`
+![Название скриншота 1](https://github.com/SogonovAN/NP-hw/blob/main/0.1.1.1.1.JPG)`
 
 ### Задание 2
 
