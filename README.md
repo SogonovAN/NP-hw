@@ -12,9 +12,9 @@
 
 ### Задание 2
 
-![Название скриншота 1](https://github.com/SogonovAN/NP-hw/blob/main/3.4.JPG)`
-
 ![Название скриншота 1](https://github.com/SogonovAN/NP-hw/blob/main/3.1.JPG)`
+
+![Название скриншота 1](https://github.com/SogonovAN/NP-hw/blob/main/3.4.JPG)`
 
 ![Название скриншота 1](https://github.com/SogonovAN/NP-hw/blob/main/3.2.JPG)`
 
